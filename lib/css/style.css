@@ -5,3 +5,11 @@
     margin: 30px auto;
     height: 80vh;
 }
+
+.formAdd{
+    box-sizing: border-box;
+    width: 100%;
+    margin: 50px auto;
+    height: 150vh;
+    background-color: beige;
+}
